@@ -14,16 +14,16 @@
 /* ======================================== Variables for network. */
 
 const char* ssid = "SOA UNIVERSITY"; //--> Enter your SSID / your WiFi network name.
-const char* password = "Iter@bh5"; //--> Enter your WiFi password.
+const char* password = "*****"; //--> Enter your WiFi password.
 /* ======================================== */
 
 /* ======================================== Variables for telegram bot tokens. */
-String BOTtoken = "6990953534:AAFfw6psdbjEzz8ykdncGwC0cMrnb9q6ydU";  //--> your Bot Token (Get from Botfather).
+String BOTtoken = "**********";  //--> your Bot Token (Get from Botfather).
 /* ======================================== */
 
 /* ======================================== @myidbot ID */
 
-String CHAT_ID = "5825531368";
+String CHAT_ID = "**********";
 /* ======================================== */
 
 /* ======================================== Initialize WiFiClientSecure. */
